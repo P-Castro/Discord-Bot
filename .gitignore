@@ -5,5 +5,5 @@
 temp/
 src/audios
 node_modules
-Validation/config.json
+Structures/config.json
 .vscode
