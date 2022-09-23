@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/voice": "^0.8.0",
+    "@distube/spotify": "^1.2.1",
+    "@distube/yt-dlp": "^1.0.2",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.2",
+    "ffmpeg-static": "^4.4.1",
+    "glob": "^7.2.0",
+    "libsodium-wrappers": "^0.7.10",
+    "mongoose": "^6.2.0",
+    "yt-search": "^0.1.1",
+    "ytdl-core": "^4.11.0"
+  },
+  "name": "taverbot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "./Structures/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "panimus",
+  "license": "ISC"
+}
